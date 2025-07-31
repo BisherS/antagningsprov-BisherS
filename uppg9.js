@@ -16,9 +16,9 @@ function uppg9 (){
 
             // kolla om talet är jämt eller udda
             if (num % 2 === 0) {
-                console.log(num + " jämt");
+                console.log(num, " jämt");
             } else {
-                console.log(num + " udda");
+                console.log(num, " udda");
             }
         }
     }
